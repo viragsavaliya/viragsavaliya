@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @viragsavaliya
+- 👀 I’m interested in IoT, Web Development, Android Development, Machine learning and Artifical Intelligence
+- 🌱 I’m currently learning Web Development
+- 📫 You can hit me up on virag.avaliya24@gmail.com

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viragsavaliya
-- 👀 I’m interested in IoT, Web Development, Android Development, Machine learning and Artifical Intelligence
-- 🌱 I’m currently learning Web Development
-- 📫 You can hit me up on virag.avaliya24@gmail.com
+👋 Hi, I’m @viragsavaliya
+👀 Passionate about Data Analysis, Software Development/Engineering, and exploring options trading in the stock market.
+🌱 Currently enhancing my skills in Data Analysis and always open to learning new technologies.
+📫 Feel free to reach out at virag.is.sav@gmail.com

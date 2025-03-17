@@ -16,8 +16,3 @@ I’m currently learning new Data Analysis Skills<br>All of my projects are avai
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viragsavaliya&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
